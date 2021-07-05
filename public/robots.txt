@@ -1,4 +1,4 @@
 User-agent: *
-Sitemap: https://revoltadoumia.com/sitemap.xml
+Sitemap: https://revoltadoumia.com//sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
