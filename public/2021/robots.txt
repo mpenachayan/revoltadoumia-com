@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https://arevoltadoumia.gal/2021/sitemap.xml
+Disallow: /ghost/
+Disallow: /p/

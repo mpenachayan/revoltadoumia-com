@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://arevoltadoumia.gal/2021/horarios/</loc>
+        <lastmod>2021-08-22T20:43:45.306Z</lastmod>
+    </url>
+    <url>
+        <loc>https://arevoltadoumia.gal/2021/</loc>
+        <lastmod>2021-08-22T20:21:33.111Z</lastmod>
+    </url>
+    <url>
+        <loc>https://arevoltadoumia.gal/2021/entradas/</loc>
+        <lastmod>2021-07-23T15:37:36.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://arevoltadoumia.gal/2021/informacion/</loc>
+        <lastmod>2021-07-23T15:37:12.000Z</lastmod>
+    </url>
+    <url>
+        <loc>https://arevoltadoumia.gal/2021/bandas/</loc>
+        <lastmod>2021-07-05T18:48:54.000Z</lastmod>
+        <image:image>
+            <image:loc>https://arevoltadoumia.gal/2021/content/images/2021/06/collage--1-.jpg</image:loc>
+            <image:caption>collage--1-.jpg</image:caption>
+        </image:image>
+    </url>
+</urlset>
