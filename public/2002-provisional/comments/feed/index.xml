@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comentarios para Festival Revolta do Umia	</title>
+	Comments for Festival Revolta do Umia	</title>
 	<atom:link href="https://arevoltadoumia.gal/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://arevoltadoumia.gal/</link>
 	<description>26 e 27 de Agosto en Vilar de Mato - Cuntis</description>
-	<lastBuildDate>Sat, 16 Apr 2022 10:19:41 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Feb 2022 22:06:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 </channel>
 </rss>
