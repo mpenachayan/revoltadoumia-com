@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-Sitemap: https://arevoltadoumia.gal/wpms-sitemap.xml
+Sitemap: http://localhost/wpms-sitemap.xml
